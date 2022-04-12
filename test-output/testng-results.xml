@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31083" started-at="2022-04-03T11:20:49 IST" finished-at="2022-04-03T11:21:20 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31083" started-at="2022-04-03T11:20:49 IST" finished-at="2022-04-03T11:21:20 IST">
+      <class name="com.Testng_Practice_Project.Adactin_TestNG_Runner">
+        <test-method status="PASS" signature="report_Generation()[pri:0, instance:com.Testng_Practice_Project.Adactin_TestNG_Runner@797b0699]" name="report_Generation" is-config="true" duration-ms="2669" started-at="2022-04-03T11:20:49 IST" finished-at="2022-04-03T11:20:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_Generation -->
+        <test-method status="PASS" signature="geturl()[pri:0, instance:com.Testng_Practice_Project.Adactin_TestNG_Runner@797b0699]" name="geturl" is-config="true" duration-ms="6632" started-at="2022-04-03T11:20:52 IST" finished-at="2022-04-03T11:20:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geturl -->
+        <test-method status="PASS" signature="signin()[pri:0, instance:com.Testng_Practice_Project.Adactin_TestNG_Runner@797b0699]" name="signin" is-config="true" duration-ms="2480" started-at="2022-04-03T11:20:58 IST" finished-at="2022-04-03T11:21:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method status="PASS" signature="HotelBooking()[pri:0, instance:com.Testng_Practice_Project.Adactin_TestNG_Runner@797b0699]" name="HotelBooking" duration-ms="5297" started-at="2022-04-03T11:21:01 IST" finished-at="2022-04-03T11:21:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelBooking -->
+        <test-method status="PASS" signature="Signout()[pri:0, instance:com.Testng_Practice_Project.Adactin_TestNG_Runner@797b0699]" name="Signout" is-config="true" duration-ms="11125" started-at="2022-04-03T11:21:06 IST" finished-at="2022-04-03T11:21:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signout -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:com.Testng_Practice_Project.Adactin_TestNG_Runner@797b0699]" name="quit" is-config="true" duration-ms="75" started-at="2022-04-03T11:21:17 IST" finished-at="2022-04-03T11:21:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+        <test-method status="PASS" signature="flush()[pri:0, instance:com.Testng_Practice_Project.Adactin_TestNG_Runner@797b0699]" name="flush" is-config="true" duration-ms="2687" started-at="2022-04-03T11:21:17 IST" finished-at="2022-04-03T11:21:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flush -->
+      </class> <!-- com.Testng_Practice_Project.Adactin_TestNG_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
